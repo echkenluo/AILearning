@@ -1,0 +1,13 @@
+# Output directories (large HTML/images)
+output/*/raw.html
+output/*/raw_page.html
+output/*/content.html
+output/*/js_content.html
+output/*/js_content.inner.html
+output/*/images/
+output/*/*.embedded.html
+output/*/*.pdf
+output/*/run.log
+
+# OS
+.DS_Store
