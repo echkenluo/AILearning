@@ -6,7 +6,6 @@ output/**/js_content.html
 output/**/js_content.inner.html
 output/**/images/
 output/**/*.embedded.html
-output/**/*.static.html
 output/**/*.pdf
 output/**/run.log
 
